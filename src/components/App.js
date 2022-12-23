@@ -6,8 +6,8 @@ class App extends React.Component {
     constructor() {
         super();
         this.state = {
-            name: "Sam Lee",
-            enrollmentNo: "85647912",
+            name: "John Doe",
+            enrollmentNo: "12345678",
             age: 34
         }
     }
